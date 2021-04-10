@@ -1,0 +1,34 @@
+NUMERIC A <- (-4.5)
+INTEGER H <- 5
+CHARACTER C
+INTEGER T[8]
+LOGICAL P <- FALSE
+CHARACTER Y <- 'i'
+NUMERIC Ch,Pu
+
+H<-A
+T<-P
+Y<-(-2)
+T<-A
+FOR(I IN 0:2){A+<-1}
+B<-IFELSE(A+H==T[0]-1,1+2,1-2)
+WHILE(X+Y<=N)
+{
+	I<-O+T[5]
+	N<-A
+}
+
+A+<-2
+B-<-7
+T[2]+<-7
+
+IF(C==Y)
+{	
+IF(Ch==A)
+	{
+		C<-'O'
+	}
+Ch<-'O'
+}ELSE{
+	Ch<-5
+}

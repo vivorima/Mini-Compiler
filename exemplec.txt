@@ -1,0 +1,12 @@
+#Test TP compilation 
+
+INTEGER Ab <- 2
+INTEGER Ba
+NUMERIC C <- 385.5
+D<-Ab-5+Ba*2
+WHILE(Ab!=0)
+{
+	D<-IFELSE(C>0,5,1)
+	Ab-<-1
+	C<-C/10
+}
